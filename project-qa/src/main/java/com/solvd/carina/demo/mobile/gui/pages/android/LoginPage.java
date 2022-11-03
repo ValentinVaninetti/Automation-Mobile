@@ -14,69 +14,22 @@ import com.solvd.carina.demo.mobile.gui.pages.common.LoginPageBase;
 @DeviceType(pageType = Type.ANDROID_PHONE, parentClass = LoginPageBase.class)
 public class LoginPage extends LoginPageBase implements IMobileUtils {
 
-    @FindBy(id = "name")
-    private ExtendedWebElement nameInputField;
-
-    @FindBy(id = "password")
-    private ExtendedWebElement passwordInputField;
-
-    @FindBy(id = "radio_male")
-    private ExtendedWebElement maleRadioBtn;
-
-    @FindBy(id = "radio_female")
-    private ExtendedWebElement femaleRadioBtn;
-
-    @FindBy(id = "checkbox")
-    private ExtendedWebElement privacyPolicyCheckbox;
-
-    @FindBy(id = "login_button")
-    private ExtendedWebElement loginBtn;
-
+    @FindBy(id = "")
+    private ExtendedWebElement username;
+    @FindBy(id = "")
+    private ExtendedWebElement password;
     public LoginPage(WebDriver driver) {
         super(driver);
     }
 
     @Override
-    public void typeName(String name) {
-        nameInputField.type(name);
-        hideKeyboard();
+    public void clickUsername() {
+
+    }
+    @Override
+    public void clickPassword() {
+
     }
 
-    @Override
-    public void typePassword(String password) {
-        passwordInputField.type(password);
-    }
-
-    @Override
-    public void selectMaleSex() {
-        maleRadioBtn.click();
-    }
-
-    @Override
-    public void checkPrivacyPolicyCheckbox() {
-        privacyPolicyCheckbox.click();
-    }
-
-    @Override
-    public CarinaDescriptionPageBase clickLoginBtn() {
-        loginBtn.click();
-        return initPage(getDriver(), CarinaDescriptionPageBase.class);
-    }
-
-    @Override
-    public boolean isLoginBtnActive() {
-        return Boolean.parseBoolean(loginBtn.getAttribute("enabled"));
-    }
-
-    @Override
-    public CarinaDescriptionPageBase login() {
-        String username = "Test user";
-        String password = RandomStringUtils.randomAlphabetic(10);
-        typeName(username);
-        typePassword(password);
-        selectMaleSex();
-        checkPrivacyPolicyCheckbox();
-        return clickLoginBtn();
-    }
 
 }

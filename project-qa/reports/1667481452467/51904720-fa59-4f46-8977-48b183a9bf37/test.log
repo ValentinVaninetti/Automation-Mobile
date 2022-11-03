@@ -1,0 +1,8 @@
+[2022-11-03 01:17:33] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-03 01:17:33] [1] [INFO] TEST [Automation-Mobile - touchLoginComponent] STARTED at [10:17:33 2022-11-03]
+[2022-11-03 01:17:33] [1] [INFO] Starting driver session...
+[2022-11-03 01:17:43] [1] [INFO] Driver session started.
+[2022-11-03 01:17:45] [1] [INFO] PASS: element 'skipButton' is clicked.
+[2022-11-03 01:17:49] [1] [INFO] PASS: element 'profile' is clicked.
+[2022-11-03 01:17:51] [1] [INFO] PASS: element 'logInSignUp' is clicked.
+[2022-11-03 01:17:58] [1] [INFO] TEST [Automation-Mobile - touchLoginComponent] PASSED at [10:17:58 2022-11-03]

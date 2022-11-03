@@ -10,18 +10,7 @@ public abstract class LoginPageBase extends AbstractPage {
 		super(driver);
 	}
 
-	public abstract void typeName(String name);
+	public abstract void clickUsername();
 
-	public abstract void typePassword(String password);
-
-	public abstract void selectMaleSex();
-
-	public abstract void checkPrivacyPolicyCheckbox();
-
-	public abstract CarinaDescriptionPageBase clickLoginBtn();
-
-	public abstract boolean isLoginBtnActive();
-
-	public abstract CarinaDescriptionPageBase login();
-
+	public abstract void clickPassword();
 }
