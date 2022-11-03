@@ -1,0 +1,109 @@
+[2022-11-03 02:55:34] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-03 02:55:34] [1] [INFO] TEST [Automation-Mobile - logIn] STARTED at [11:55:34 2022-11-03]
+[2022-11-03 02:55:34] [1] [INFO] Starting driver session...
+[2022-11-03 02:55:44] [1] [INFO] Driver session started.
+[2022-11-03 02:55:45] [1] [INFO] PASS: element 'skipButton' is clicked.
+[2022-11-03 02:55:51] [1] [INFO] PASS: element 'profile' is clicked.
+[2022-11-03 02:55:52] [1] [INFO] PASS: element 'logInSignUp' is clicked.
+[2022-11-03 02:55:53] [1] [INFO] PASS: element 'logIn' is clicked.
+[2022-11-03 02:55:56] [1] [INFO] PASS: element 'username1' is clicked.
+[2022-11-03 02:55:57] [1] [ERROR] Undefined error on capture screenshot detected: Screen shot has been taken
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MTF56H9', ip: '192.168.1.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:/Users/54116/Desktop/apk/..., appPackage: com.reddit.frontpage, appPackages: com.reddit.frontpage, appWaitActivity: com.reddit.auth.screen.welc..., autoDismissAlerts: true, autoGrantPermissions: true, automationName: uiautomator2, databaseEnabled: false, desired: {app: C:/Users/54116/Desktop/apk/..., appPackages: com.reddit.frontpage, appWaitActivity: com.reddit.auth.screen.welc..., autoDismissAlerts: true, autoGrantPermissions: true, automationName: uiautomator2, deviceName: pixel-device, deviceType: phone, language: en, locale: US, platformName: android, udid: emulator-5554}, deviceApiLevel: 33, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2220, deviceType: phone, deviceUDID: emulator-5554, javascriptEnabled: true, language: en, locale: US, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: ANDROID, platformVersion: 13, statBarHeight: 66, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 2088, left: 0, top: 66, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: db9e26ed-44e6-43b1-b64e-ca762fd9a354
+[2022-11-03 02:55:57] [1] [INFO] PASS: keys cleared in element 'username1'.
+[2022-11-03 02:55:57] [1] [ERROR] Undefined error on capture screenshot detected: Screen shot has been taken
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MTF56H9', ip: '192.168.1.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:/Users/54116/Desktop/apk/..., appPackage: com.reddit.frontpage, appPackages: com.reddit.frontpage, appWaitActivity: com.reddit.auth.screen.welc..., autoDismissAlerts: true, autoGrantPermissions: true, automationName: uiautomator2, databaseEnabled: false, desired: {app: C:/Users/54116/Desktop/apk/..., appPackages: com.reddit.frontpage, appWaitActivity: com.reddit.auth.screen.welc..., autoDismissAlerts: true, autoGrantPermissions: true, automationName: uiautomator2, deviceName: pixel-device, deviceType: phone, language: en, locale: US, platformName: android, udid: emulator-5554}, deviceApiLevel: 33, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2220, deviceType: phone, deviceUDID: emulator-5554, javascriptEnabled: true, language: en, locale: US, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: ANDROID, platformVersion: 13, statBarHeight: 66, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 2088, left: 0, top: 66, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: db9e26ed-44e6-43b1-b64e-ca762fd9a354
+[2022-11-03 02:55:58] [1] [ERROR] FAIL: keys 'automation_test' are not sent to element 'username1 (By.id: com.reddit.frontpage:id/username)'!
+[2022-11-03 02:55:58] [1] [ERROR] Undefined error on capture screenshot detected: Screen shot has been taken
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MTF56H9', ip: '192.168.1.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:/Users/54116/Desktop/apk/..., appPackage: com.reddit.frontpage, appPackages: com.reddit.frontpage, appWaitActivity: com.reddit.auth.screen.welc..., autoDismissAlerts: true, autoGrantPermissions: true, automationName: uiautomator2, databaseEnabled: false, desired: {app: C:/Users/54116/Desktop/apk/..., appPackages: com.reddit.frontpage, appWaitActivity: com.reddit.auth.screen.welc..., autoDismissAlerts: true, autoGrantPermissions: true, automationName: uiautomator2, deviceName: pixel-device, deviceType: phone, language: en, locale: US, platformName: android, udid: emulator-5554}, deviceApiLevel: 33, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2220, deviceType: phone, deviceUDID: emulator-5554, javascriptEnabled: true, language: en, locale: US, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: ANDROID, platformVersion: 13, statBarHeight: 66, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 2088, left: 0, top: 66, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: db9e26ed-44e6-43b1-b64e-ca762fd9a354
+[2022-11-03 02:55:58] [1] [ERROR] Undefined error on capture screenshot detected: Screen shot has been taken
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MTF56H9', ip: '192.168.1.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:/Users/54116/Desktop/apk/..., appPackage: com.reddit.frontpage, appPackages: com.reddit.frontpage, appWaitActivity: com.reddit.auth.screen.welc..., autoDismissAlerts: true, autoGrantPermissions: true, automationName: uiautomator2, databaseEnabled: false, desired: {app: C:/Users/54116/Desktop/apk/..., appPackages: com.reddit.frontpage, appWaitActivity: com.reddit.auth.screen.welc..., autoDismissAlerts: true, autoGrantPermissions: true, automationName: uiautomator2, deviceName: pixel-device, deviceType: phone, language: en, locale: US, platformName: android, udid: emulator-5554}, deviceApiLevel: 33, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2220, deviceType: phone, deviceUDID: emulator-5554, javascriptEnabled: true, language: en, locale: US, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: ANDROID, platformVersion: 13, statBarHeight: 66, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 2088, left: 0, top: 66, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: db9e26ed-44e6-43b1-b64e-ca762fd9a354
+[2022-11-03 02:55:58] [1] [ERROR] TEST [Automation-Mobile - logIn] FAILED at [11:55:58 2022-11-03] - Cannot set the element to 'automation_test'. Did you interact with the correct element?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-MTF56H9', ip: '192.168.1.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16.1'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:/Users/54116/Desktop/apk/..., appPackage: com.reddit.frontpage, appPackages: com.reddit.frontpage, appWaitActivity: com.reddit.auth.screen.welc..., autoDismissAlerts: true, autoGrantPermissions: true, automationName: uiautomator2, databaseEnabled: false, desired: {app: C:/Users/54116/Desktop/apk/..., appPackages: com.reddit.frontpage, appWaitActivity: com.reddit.auth.screen.welc..., autoDismissAlerts: true, autoGrantPermissions: true, automationName: uiautomator2, deviceName: pixel-device, deviceType: phone, language: en, locale: US, platformName: android, udid: emulator-5554}, deviceApiLevel: 33, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2220, deviceType: phone, deviceUDID: emulator-5554, javascriptEnabled: true, language: en, locale: US, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: ANDROID, platformVersion: 13, statBarHeight: 66, takesScreenshot: true, udid: emulator-5554, viewportRect: {height: 2088, left: 0, top: 66, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: db9e26ed-44e6-43b1-b64e-ca762fd9a354
+
+java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+com.qaprosoft.carina.core.foundation.webdriver.listener.EventFiringAppiumCommandExecutor.execute(EventFiringAppiumCommandExecutor.java:142)
+org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+io.appium.java_client.DefaultGenericMobileElement.execute(DefaultGenericMobileElement.java:45)
+io.appium.java_client.MobileElement.execute(MobileElement.java:1)
+io.appium.java_client.android.AndroidElement.execute(AndroidElement.java:1)
+org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:106)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:566)
+org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+com.sun.proxy.$Proxy35.sendKeys(Unknown Source)
+org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.sendKeys(EventFiringWebDriver.java:429)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:566)
+org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+com.sun.proxy.$Proxy34.sendKeys(Unknown Source)
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement$1.doType(ExtendedWebElement.java:1532)
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement.executeAction(ExtendedWebElement.java:1357)
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement.overrideAction(ExtendedWebElement.java:1453)
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement.doAction(ExtendedWebElement.java:1437)
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement.type(ExtendedWebElement.java:733)
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement.type(ExtendedWebElement.java:721)
+com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement.type(ExtendedWebElement.java:711)
+com.solvd.carina.demo.mobile.gui.pages.android.LoginPage.clickUsername(LoginPage.java:34)
+com.solvd.carina.android.ProfileComponentTest.logIn(ProfileComponentTest.java:21)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.base/java.lang.reflect.Method.invoke(Method.java:566)
+org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:135)
+org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:673)
+org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:220)
+org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:945)
+org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:193)
+org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+org.testng.TestRunner.privateRun(TestRunner.java:808)
+org.testng.TestRunner.run(TestRunner.java:603)
+org.testng.SuiteRunner.runTest(SuiteRunner.java:429)
+org.testng.SuiteRunner.runSequentially(SuiteRunner.java:423)
+org.testng.SuiteRunner.privateRun(SuiteRunner.java:383)
+org.testng.SuiteRunner.run(SuiteRunner.java:326)
+org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+org.testng.TestNG.runSuitesSequentially(TestNG.java:1249)
+org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+org.testng.TestNG.runSuites(TestNG.java:1092)
+org.testng.TestNG.run(TestNG.java:1060)
+com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
