@@ -9,4 +9,6 @@ public abstract class HomePageBase extends AbstractPage {
         super(driver);
     }
     public abstract void clickSkip();
+
+    public abstract boolean isElementPresent();
 }

@@ -11,6 +11,8 @@ public class HomePage extends HomePageBase {
     @FindBy(id = "com.reddit.frontpage:id/skip_button")
     private ExtendedWebElement skipButton;
 
+    @FindBy(id = "com.reddit.frontpage:id/feed_control_search_icon")
+    private ExtendedWebElement search;
     public HomePage(WebDriver driver) {
         super(driver);
     }
@@ -19,6 +21,10 @@ public class HomePage extends HomePageBase {
     @Override
     public void clickSkip(){
         skipButton.click();
+    }
 
+    @Override
+    public boolean isElementPresent() {
+        return search.isElementPresent();
     }
 }

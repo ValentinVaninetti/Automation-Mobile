@@ -1,0 +1,6 @@
+[2022-11-03 12:41:47] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-03 12:41:47] [1] [INFO] TEST [Automation-Mobile - testOpenReddit] STARTED at [09:41:47 2022-11-03]
+[2022-11-03 12:41:47] [1] [INFO] Starting driver session...
+[2022-11-03 12:41:58] [1] [INFO] Driver session started.
+[2022-11-03 12:41:59] [1] [INFO] PASS: element 'skipButton' is clicked.
+[2022-11-03 12:42:51] [1] [INFO] TEST [Automation-Mobile - testOpenReddit] PASSED at [09:42:51 2022-11-03]
