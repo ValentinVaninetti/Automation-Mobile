@@ -11,7 +11,6 @@ public abstract class LoginPageBase extends AbstractPage {
 	}
 
 	public abstract void clickUsername();
-
 	public abstract void clickPassword();
 	public abstract void clickContinue();
 }

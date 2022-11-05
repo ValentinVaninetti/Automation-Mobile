@@ -2,6 +2,7 @@ package com.solvd.carina.mobile.gui.pages.android;
 import com.qaprosoft.carina.core.foundation.utils.factory.DeviceType;
 import com.qaprosoft.carina.core.foundation.webdriver.decorator.ExtendedWebElement;
 import com.solvd.carina.mobile.gui.pages.android.components.ProfileComponent;
+import com.solvd.carina.mobile.gui.pages.android.components.SearchComponent;
 import com.solvd.carina.mobile.gui.pages.common.HomePageBase;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.FindBy;
@@ -15,6 +16,9 @@ public class HomePage extends HomePageBase {
     private ExtendedWebElement search;
     @FindBy(xpath = "//android.widget.FrameLayout[@content-desc=\"Profile avatar\"]/android.widget.ImageView")
     private ExtendedWebElement profile;
+
+    @FindBy(id = "com.reddit.frontpage:id/item_community_nav_icon_large")
+    private ExtendedWebElement navBar;
     public HomePage(WebDriver driver) {
         super(driver);
     }
@@ -34,7 +38,20 @@ public class HomePage extends HomePageBase {
     }
 
     @Override
-    public boolean isElementPresent() {
+    public boolean isNavBarElementPresent() {
+        return navBar.isElementPresent();
+    }
+
+    @Override
+    public boolean isSearchElementPresent() {
         return search.isElementPresent();
+    }
+
+    @Override
+    public SearchComponent clickSearch() {
+        if (search.isElementPresent()){
+            search.click();
+        }
+        return new SearchComponent(driver);
     }
 }

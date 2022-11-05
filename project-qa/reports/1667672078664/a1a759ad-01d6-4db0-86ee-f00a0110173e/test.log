@@ -1,0 +1,10 @@
+[2022-11-05 06:14:39] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-05 06:14:39] [1] [INFO] TEST [Automation-Mobile - searchWorks] STARTED at [15:14:39 2022-11-05]
+[2022-11-05 06:14:39] [1] [INFO] Starting driver session...
+[2022-11-05 06:14:49] [1] [INFO] Driver session started.
+[2022-11-05 06:14:51] [1] [INFO] PASS: element 'skipButton' is clicked.
+[2022-11-05 06:14:54] [1] [INFO] PASS: element 'search' is clicked.
+[2022-11-05 06:14:56] [1] [INFO] PASS: keys cleared in element 'searchType'.
+[2022-11-05 06:14:57] [1] [INFO] PASS: keys 'peronia' are sent to element 'searchType'.
+[2022-11-05 06:14:59] [1] [INFO] PASS: element 'firstSearch' is clicked.
+[2022-11-05 06:15:03] [1] [INFO] TEST [Automation-Mobile - searchWorks] PASSED at [15:15:03 2022-11-05]

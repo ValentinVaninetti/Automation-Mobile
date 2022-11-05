@@ -13,6 +13,6 @@ public class HomePageTest implements IAbstractTest, IMobileUtils {
         HomePageBase home  = initPage(getDriver(), HomePageBase.class);
         Thread.sleep(2000);
         home.clickSkip();
-        Assert.assertTrue(home.isElementPresent(),"Element is not here");
+        Assert.assertTrue(home.isNavBarElementPresent(),"Element is not here");
     }
 }

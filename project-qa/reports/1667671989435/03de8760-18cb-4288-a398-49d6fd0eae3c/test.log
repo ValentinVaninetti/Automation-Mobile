@@ -1,0 +1,6 @@
+[2022-11-05 06:13:11] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-05 06:13:11] [1] [INFO] TEST [Automation-Mobile - searchWorks] STARTED at [15:13:11 2022-11-05]
+[2022-11-05 06:13:11] [1] [INFO] Starting driver session...
+[2022-11-05 06:13:24] [1] [INFO] Driver session started.
+[2022-11-05 06:13:25] [1] [INFO] PASS: element 'skipButton' is clicked.
+[2022-11-05 06:13:30] [1] [INFO] PASS: element 'search' is clicked.
