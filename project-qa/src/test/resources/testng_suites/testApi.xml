@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testApi" parallel="false">
+    <test name="itTestThatGETMethodWorks">
+        <classes>
+            <class name="com.solvd.test.api.PersonTest">
+
+            </class>
+        </classes>
+    </test>
+    <test name="itTestsThatPOSTMethodWorks">
+        <classes>
+            <class name="com.solvd.test.api.PersonTest">
+
+            </class>
+        </classes>
+    </test>
+
+</suite>

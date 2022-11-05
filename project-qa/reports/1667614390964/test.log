@@ -1,0 +1,36 @@
+[2022-11-05 02:13:10] [1] [INFO] 
+============= Test configuration =============
+url=https://www.gsmarena.com
+env=DEMO
+selenium_url=http://localhost:4723/wd/hub
+auto_screenshot=true
+project_report_directory=./reports
+max_screen_history=10
+localization_encoding=UTF-8
+selenium_url=http://localhost:4723/wd/hub
+
+------------- Driver capabilities -----------
+capabilities.deviceName=pixel-device
+capabilities.appWaitActivity=com.reddit.auth.screen.welcome.IntroductionActivity
+capabilities.autoDismissAlerts=true
+capabilities.appPackages=com.reddit.frontpage
+capabilities.automationName=uiautomator2
+capabilities.app=C:/Users/Propietario/Downloads/reddit.apk
+capabilities.platformName=ANDROID
+capabilities.deviceType=phone
+capabilities.udid=emulator-5554
+capabilities.autoGrantPermissions=true
+================================================
+
+[2022-11-05 02:13:11] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-11-05 02:13:11] [1] [INFO] Reflections took 816 ms to scan 10 urls, producing 2408 keys and 11797 values 
+[2022-11-05 02:13:12] [1] [INFO] [TestNG] Running:
+  C:\Users\Propietario\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+[2022-11-05 02:13:12] [1] [INFO] Updated mobile app: C:/Users/Propietario/Downloads/reddit.apk
+[2022-11-05 02:13:12] [1] [INFO] Set thread-count=1
+[2022-11-05 02:13:12] [1] [INFO] Set data-provider-thread-count=1
+[2022-11-05 02:13:12] [1] [ERROR] Failed to attach artifact reference 'app' to test run because it has not been started yet.
+[2022-11-05 02:13:12] [1] [INFO] CARINA_CORE_VERSION: 7.4.26
+[2022-11-05 02:13:34] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-11-05 02:13:34] [1] [INFO] RESULT #1: TEST [Automation-Mobile - testOpenReddit] PASS [screenshots=file://C:\Users\Propietario\Documents\Automation-Mobile-Android-carina\Automation-Mobile\project-qa\.\reports\1667614390964/a4b041bf-5871-4362-aa46-b6c4459bf639/report.html | log=file://C:\Users\Propietario\Documents\Automation-Mobile-Android-carina\Automation-Mobile\project-qa\.\reports\1667614390964/a4b041bf-5871-4362-aa46-b6c4459bf639/test.log]

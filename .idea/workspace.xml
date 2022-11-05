@@ -4,7 +4,192 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46e7a0cd-afa2-42f3-b0cd-4d44fe58042c" name="Changes" comment="" />
+    <list default="true" id="46e7a0cd-afa2-42f3-b0cd-4d44fe58042c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15162d7d0d0ba16b81459898c98ba2c1a35687ee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16361a60b22f444126c00866f3d9f31c58da6062" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7ae5359642730bd099ec78a950c095f852344028" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f8b7326bda307e68f5c5b9a1f3f13d22d4f071c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/831e154edd5af7de6404908cc33ac65143d5d571" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9bb9d9e21f975b5f3bdf04f7e3268be07abd4b78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/1/a145f8ca8dce7b4410bfd29c5f966137e5a719bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project-qa/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/project-qa.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667485290307/6cca306c-5683-4d8f-b1f1-6727d7f97a00/1667485320440.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667485290307/6cca306c-5683-4d8f-b1f1-6727d7f97a00/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667485290307/6cca306c-5683-4d8f-b1f1-6727d7f97a00/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667485290307/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667485290307/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487180837/787c5a43-218e-472b-bcf1-4f1dad5d66da/1667487193497.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487180837/787c5a43-218e-472b-bcf1-4f1dad5d66da/1667487197276.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487180837/787c5a43-218e-472b-bcf1-4f1dad5d66da/1667487199478.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487180837/787c5a43-218e-472b-bcf1-4f1dad5d66da/1667487200709.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487180837/787c5a43-218e-472b-bcf1-4f1dad5d66da/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487180837/787c5a43-218e-472b-bcf1-4f1dad5d66da/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487180837/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487180837/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487333719/5f3aa036-3db8-484a-ad9c-6d2cf10f0be7/1667487345610.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487333719/5f3aa036-3db8-484a-ad9c-6d2cf10f0be7/1667487351262.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487333719/5f3aa036-3db8-484a-ad9c-6d2cf10f0be7/1667487352640.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487333719/5f3aa036-3db8-484a-ad9c-6d2cf10f0be7/1667487353878.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487333719/5f3aa036-3db8-484a-ad9c-6d2cf10f0be7/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487333719/5f3aa036-3db8-484a-ad9c-6d2cf10f0be7/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487333719/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487333719/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487458655/0c1b602a-00cd-4aed-8e51-f86cb5752c79/1667487471194.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487458655/0c1b602a-00cd-4aed-8e51-f86cb5752c79/1667487476642.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487458655/0c1b602a-00cd-4aed-8e51-f86cb5752c79/1667487478007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487458655/0c1b602a-00cd-4aed-8e51-f86cb5752c79/1667487479226.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487458655/0c1b602a-00cd-4aed-8e51-f86cb5752c79/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487458655/0c1b602a-00cd-4aed-8e51-f86cb5752c79/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487458655/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487458655/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487861788/9eb06a3c-d42e-4b4b-8833-315e832f8dcb/1667487874499.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487861788/9eb06a3c-d42e-4b4b-8833-315e832f8dcb/1667487880425.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487861788/9eb06a3c-d42e-4b4b-8833-315e832f8dcb/1667487882042.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487861788/9eb06a3c-d42e-4b4b-8833-315e832f8dcb/1667487883508.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487861788/9eb06a3c-d42e-4b4b-8833-315e832f8dcb/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487861788/9eb06a3c-d42e-4b4b-8833-315e832f8dcb/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487861788/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487861788/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487920186/c01622ab-e2c9-4627-a59e-345e586c2a29/1667487932212.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487920186/c01622ab-e2c9-4627-a59e-345e586c2a29/1667487938329.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487920186/c01622ab-e2c9-4627-a59e-345e586c2a29/1667487939523.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487920186/c01622ab-e2c9-4627-a59e-345e586c2a29/1667487940873.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487920186/c01622ab-e2c9-4627-a59e-345e586c2a29/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487920186/c01622ab-e2c9-4627-a59e-345e586c2a29/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487920186/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487920186/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487982032/325bb220-8eb7-4531-a7fe-7de7e102520d/1667487994774.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487982032/325bb220-8eb7-4531-a7fe-7de7e102520d/1667487999524.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487982032/325bb220-8eb7-4531-a7fe-7de7e102520d/1667488001089.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487982032/325bb220-8eb7-4531-a7fe-7de7e102520d/1667488002325.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487982032/325bb220-8eb7-4531-a7fe-7de7e102520d/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487982032/325bb220-8eb7-4531-a7fe-7de7e102520d/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487982032/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667487982032/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488092317/179f5897-d053-4cb6-8396-abe63269f03c/1667488104547.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488092317/179f5897-d053-4cb6-8396-abe63269f03c/1667488108930.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488092317/179f5897-d053-4cb6-8396-abe63269f03c/1667488110458.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488092317/179f5897-d053-4cb6-8396-abe63269f03c/1667488111974.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488092317/179f5897-d053-4cb6-8396-abe63269f03c/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488092317/179f5897-d053-4cb6-8396-abe63269f03c/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488092317/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488092317/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488467000/a7843f23-e6c5-4017-affe-2ab9a64b385d/1667488478577.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488467000/a7843f23-e6c5-4017-affe-2ab9a64b385d/1667488483842.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488467000/a7843f23-e6c5-4017-affe-2ab9a64b385d/1667488485411.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488467000/a7843f23-e6c5-4017-affe-2ab9a64b385d/1667488486707.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488467000/a7843f23-e6c5-4017-affe-2ab9a64b385d/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488467000/a7843f23-e6c5-4017-affe-2ab9a64b385d/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488467000/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488467000/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488734191/d889f279-16d6-459b-9a1e-e5055f21a30c/1667488745974.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488734191/d889f279-16d6-459b-9a1e-e5055f21a30c/1667488751493.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488734191/d889f279-16d6-459b-9a1e-e5055f21a30c/1667488753692.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488734191/d889f279-16d6-459b-9a1e-e5055f21a30c/1667488754976.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488734191/d889f279-16d6-459b-9a1e-e5055f21a30c/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667488734191/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512508919/cc84aa5c-7153-4124-98a2-db3ffb43a1b0/1667512529276.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512508919/cc84aa5c-7153-4124-98a2-db3ffb43a1b0/1667512551125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512508919/cc84aa5c-7153-4124-98a2-db3ffb43a1b0/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512508919/cc84aa5c-7153-4124-98a2-db3ffb43a1b0/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512508919/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512508919/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512608797/25b73a52-6425-4451-adbd-3e4a87155848/1667512621225.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512608797/25b73a52-6425-4451-adbd-3e4a87155848/1667512642299.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512608797/25b73a52-6425-4451-adbd-3e4a87155848/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512608797/25b73a52-6425-4451-adbd-3e4a87155848/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512608797/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512608797/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512796486/222b4c80-bddc-4c86-9d4a-bcca14eadb85/1667512808393.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512796486/222b4c80-bddc-4c86-9d4a-bcca14eadb85/1667512829815.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512796486/222b4c80-bddc-4c86-9d4a-bcca14eadb85/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512796486/222b4c80-bddc-4c86-9d4a-bcca14eadb85/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512796486/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512796486/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512851704/7f22b933-cdb5-4525-9cb6-8cbbae0ba1c1/1667512864910.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512851704/7f22b933-cdb5-4525-9cb6-8cbbae0ba1c1/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512851704/7f22b933-cdb5-4525-9cb6-8cbbae0ba1c1/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512851704/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/1667512851704/test.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-qa/reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/api/DeleteUserMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/api/GetUserMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/api/PostUserMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/demo/mobile/gui/pages/ios/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/mobile/gui/pages/android/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/mobile/gui/pages/android/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/mobile/gui/pages/android/NavBarPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/mobile/gui/pages/android/components/LoginComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/mobile/gui/pages/android/components/ProfileComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/mobile/gui/pages/common/HomePageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/mobile/gui/pages/common/LoginPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/mobile/gui/pages/common/NavBarPageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/mobile/gui/pages/common/components/LoginComponentBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/java/com/solvd/carina/mobile/gui/pages/common/components/ProfileComponentBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/main/resources/_api.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project-qa/src/main/resources/_api.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/test/java/com/solvd/carina/android/HomePageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/test/java/com/solvd/carina/android/LoginComponentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/test/java/com/solvd/carina/android/NavBarPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/src/test/java/com/solvd/carina/android/ProfileComponentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/classes/_api.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project-qa/target/classes/_api.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/classes/com/solvd/carina/demo/mobile/gui/pages/android/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/classes/com/solvd/carina/demo/mobile/gui/pages/android/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/classes/com/solvd/carina/demo/mobile/gui/pages/android/components/LoginComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/classes/com/solvd/carina/demo/mobile/gui/pages/android/components/ProfileComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/classes/com/solvd/carina/demo/mobile/gui/pages/common/HomePageBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/classes/com/solvd/carina/demo/mobile/gui/pages/common/LoginPageBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/classes/com/solvd/carina/demo/mobile/gui/pages/common/components/LoginComponentBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/classes/com/solvd/carina/demo/mobile/gui/pages/common/components/ProfileComponentBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/classes/com/solvd/carina/demo/mobile/gui/pages/ios/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/project-qa/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/project-qa/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/project-qa/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/project-qa/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/project-qa-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/Carina Demo Tests - Hello World/Hello World test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/Carina Demo Tests - Hello World/Hello World test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/junitreports/TEST-com.solvd.carina.demo.HelloWorld.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/Carina Demo Tests - Hello World/Hello World test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/Carina Demo Tests - Hello World/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/Carina Demo Tests - Hello World/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/Carina Demo Tests - Hello World/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/Carina Demo Tests - Hello World/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/Carina Demo Tests - Hello World/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/Carina Demo Tests - Hello World/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/Carina Demo Tests - Hello World/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/Carina Demo Tests - Hello World/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/Carina Demo Tests - Hello World/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/Carina Demo Tests - Hello World/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/test-classes/com/solvd/carina/android/HomePageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/test-classes/com/solvd/carina/android/LoginComponentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-qa/target/test-classes/com/solvd/carina/android/ProfileComponentTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,28 +220,106 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Propietario/Documents/Automation-Mobile-Android-carina/Automation-Mobile&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Propietario/Documents/SDETtest-Backend-master",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="TestNG.HomePageTest.testOpenReddit">
+    <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
+      <option name="appName" />
+      <option name="appServicePlanName" />
+      <option name="appServicePlanResourceGroup" />
+      <option name="appSettingsKey" value="54b54edf-dc21-4178-8508-de164f2aefbc" />
+      <option name="artifact" />
+      <option name="autoPort" value="true" />
+      <option name="debugOptions" />
+      <option name="deployment" />
+      <option name="deploymentStagingDirectoryPath" />
+      <option name="funcPath" />
+      <option name="funcPort" value="0" />
+      <option name="hostJsonPath" />
+      <option name="insightsName" />
+      <option name="instrumentationKey" />
+      <option name="javaVersion" />
+      <option name="localSettingsJsonPath" />
+      <option name="moduleName" />
+      <option name="os" />
+      <option name="pricingTier" />
+      <option name="providerMap">
+        <map />
+      </option>
+      <option name="region" />
+      <option name="resourceGroup" />
+      <option name="stagingFolder" />
+      <option name="subscription" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Propietario/Documents/Automation-Mobile-Android-carina/Automation-Mobile/project-qa/src/test/resources/testng_suites/testApi.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="project-qa" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/project-qa/src/test/resources/testng_suites/testApi.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HomePageTest.testOpenReddit" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="project-qa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.solvd.carina.android.*" />
+          <option name="PATTERN" value="com.solvd.test.android.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.solvd.carina.android" />
-      <option name="MAIN_CLASS_NAME" value="com.solvd.carina.android.HomePageTest" />
+      <option name="MAIN_CLASS_NAME" value="com.solvd.test.android.HomePageTest" />
       <option name="METHOD_NAME" value="testOpenReddit" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.itTestThatGETMethodWorks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="project-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solvd.test.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solvd.carina.api" />
+      <option name="MAIN_CLASS_NAME" value="com.solvd.test.api.PersonTest" />
+      <option name="METHOD_NAME" value="itTestThatGETMethodWorks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.itTestsThatPOSTMethodWorks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="project-qa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solvd.test.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.solvd.test.api" />
+      <option name="MAIN_CLASS_NAME" value="com.solvd.test.api.PersonTest" />
+      <option name="METHOD_NAME" value="itTestsThatPOSTMethodWorks" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -67,6 +330,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.HomePageTest.testOpenReddit" />
+        <item itemvalue="TestNG.PersonTest.itTestsThatPOSTMethodWorks" />
+        <item itemvalue="TestNG.PersonTest.itTestThatGETMethodWorks" />
+        <item itemvalue="TestNG.C:/Users/Propietario/Documents/Automation-Mobile-Android-carina/Automation-Mobile/project-qa/src/test/resources/testng_suites/testApi.xml" />
       </list>
     </recent_temporary>
   </component>
